@@ -1,3 +1,4 @@
+<img width="637" height="358" alt="image" src="https://github.com/user-attachments/assets/01f0c990-d4ce-469f-819c-87aa3fe4adbd" />
 
 
 MDH Stop Show Actions is a mod, created by Moerderhoschi for Arma 3. 
